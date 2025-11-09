@@ -1,8 +1,3 @@
-﻿#!/bin/bash
-# search.sh — Script Fungsi Pencarian
-# by: (nama kamu)
-# Deskripsi: Mencari file berdasarkan nama, ukuran, dan konten
-
 echo "=== FUNGSI PENCARIAN FILE ==="
 echo "1. Cari berdasarkan Nama"
 echo "2. Cari berdasarkan Ukuran"
